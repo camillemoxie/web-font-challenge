@@ -34,7 +34,7 @@
 .row-1 .style-3 {
   font-size: 30px;
   line-height: 45px;
-  margin: 120px;
+  margin: 120px 0 150px 0;
   text-transform: uppercase;
 }
 
@@ -58,7 +58,7 @@
   color: #ffffff;
   font-family: 'abril_fatfaceregular';
   height: 360px;
-  padding: 53px 86px 0 86px;
+  padding: 100px 0 0 86px;
 }
 
 .row-2 .style-4 {
@@ -68,14 +68,18 @@
 }
 
 .row-2 .style-5 {
+  float-left;
   font-size: 120px;
   line-height: 65px;
+  padding-right: 20px;
   text-transform: capitalize;
 }
 
 .row-2 .style-6 {
-  float: right;
+  float: left;
   font-size: 30px;
+  line-height: 37px;
+  margin-top: -28px;
   text-align: justify;
   text-transform: lowercase;
 }
